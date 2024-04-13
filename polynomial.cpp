@@ -24,7 +24,7 @@ using std::max;
  4. ToString
  5. Read and Write
  6. The rest of the methods
-
+*/
 
 
 /**
