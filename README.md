@@ -5,13 +5,27 @@
 
 Write a short reflection about this assignment. This can include:
 - What was easy?
+- Honestly, I don't think that any part of this lab was necessarily easy. However, the simpelst part was understanding what each functions supposed to do. While I did not successfully solve all the functions, understanding what they were supposed to do was not difficult since they were math functions that I have worked with before.
+  
 - What was hard?
+- The hardest part of the assignment was re-indexing the array for the multiplication and division functions. For the problems, I had to draw out diagrams on paper to understand the patterns. After doing this a few times, I was then able to establish an algorithm and implement it.
+  
 - Was I ready for this assignment?
+- Generally, I would sat so. In therms of code, there was nothing new that I had not experienced before.
+  
 - What were my challenges? How did I overcome these challenges?
+- My biggest challenge was the debugger. I personally did not like using the debugger, but it was extremely necessary here to debug my algorithms. This lab forced me to use the debugger and get more familiar with it.
+- Another challenge was getting my algorithm from paper to code. When I do math on a paper there are things that I implicitly do and do not even realize. However, when I turn these into algorithms it is essential that I highlight every step, or else the algorithms will not run like how I intend them to.
+
 - What I liked about the assignment?
+- I liked that the functions were ones that we already understood, I struggled geting my algorithms correct, however, I am glad that I did not have to struggle to understand the algorithms.
+  
 - What I didn't like about the assignment?
+- During the early testing stages of my code, my copy assignment operator failed, even though it seemed perfect to me. This was because the copy assignment operatorr was dependent on the tests before, so if those failed, the copy assignment operator failed. I wish that I had known that it was due to the other functions that my copy assignment operator failed, because I got discouraged when I could not figure out what was wrong with the copy assignment operator. So if possible, I wish that there was another way to test the copy assignment operator that was not directly based on our own functions.
 
 Additionally, include an image of your program running here.
+![image](https://github.com/csc2431-spring2024/polynomial-tracyymaii/assets/102703640/04ac1bca-cc50-48c1-a8bc-3ac58d5ba1a7)
+
 
 ## Purpose
 The goal of this lab is to practice dynamic memory with a simple class. Additionally, you will have the opportunity to practice command line compilation and memory leak checking using valgrind.
