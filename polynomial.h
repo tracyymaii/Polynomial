@@ -30,6 +30,7 @@ public:
 	ostream& Write(ostream& output)const;
 	istream& Read(istream& input);
 
+    size_t Size(const Polynomial& rhs)const;
 };
 
 
