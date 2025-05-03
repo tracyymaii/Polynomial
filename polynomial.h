@@ -9,6 +9,7 @@ using std::string;
 
 class Polynomial{
 	size_t _degree;
+
 	float* _coefficients;
 public:
 	Polynomial(size_t degree);

@@ -5,7 +5,7 @@
     Date:       April 12, 2024
 */
 
-#include "polynomial.h"
+#include"polynomial.h"
 
 #include <sstream>
 #include <iomanip>
