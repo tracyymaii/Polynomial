@@ -64,7 +64,7 @@ Notice that the array size is `_degree + 1`.
 - `ostream& Write(ostream& output)const`. GIVEN. Writes a polynomial from the `output` stream.
 - `istream& Read(istream& input)`. GIVEN. Reads a polynomial from the `input` stream.
 
-
+```
 ## Reflection
 > This part of the assignment is to get you primed into writing README files for your portfolio,
 
